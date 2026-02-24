@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Virtual Piano",
+  "description": "An interactive piano application that uses Gemini AI to help you compose music in the style of legendary composers like Bach, Mozart, and Beethoven.",
+  "requestFramePermissions": []
+}
